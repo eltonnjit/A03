@@ -57,3 +57,10 @@ Push
 Pull
 Remote
 Repository
+
+Refs:
+GitHub
+PowerPoints
+https://docs.github.com/en
+https://www.atlassian.com/git/tutorials
+
