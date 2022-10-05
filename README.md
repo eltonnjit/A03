@@ -23,7 +23,29 @@ Directions for Github
   5.) You are able to create new files for each of your projects. 
   6.) Merge Conflicts are common the way to fix is it by using Local Changes View
   
-  Part 2. 
+  
+  Definitons of each
+  Branch:allows to develop features, being able to fix bugs experiment with new ideas(GitHub
+  Branch:a pointer to a snapshot of your changes(Git)
+  Clone: point an exisiting repo and is able to make a clone or a copy(Git)
+  Clone: copy repo to local machine(GitHub)
+  Commit captures snapshot(Git)
+  Commit:a change in the file(GitHub)
+  Fetch: downloads commits,files from a remote repo to a local repo(Github)
+  Fetch: downloads objects to local machines with overwrting the exisitng code(Git)
+  Merge Conflict: when you merge branches(git)
+  Merge Conflict: when you merge branches with competing commits(github)
+  Push: updates the remote(github)
+  Push:upload local repo to remote(git)
+  Pull:update local version from a remote(git)
+  Pull:tell others you have pushed a branch(github)
+  Remote:able to create,view and delte connections to other repo
+  Remote:able to create,view and delte connections to other repo
+  Repository:tracks and saves all the work 
+  Repository:tracks and saves all the work 
+  
+  
+ Part 2. 
 **Branch
 Clone
 Commit
